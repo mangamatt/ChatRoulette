@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\denou\\AndroidStudioProjects\\ChatRoulette\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\denou\\.android\\build-cache\\ee97857b8734345826fdb46401a7ee6229dc7976\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\denou\\AndroidStudioProjects\\ChatRoulette\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\denou\\.android\\build-cache\\ee97857b8734345826fdb46401a7ee6229dc7976\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\denou\\AndroidStudioProjects\\ChatRoulette\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\denou\\.android\\build-cache\\ee97857b8734345826fdb46401a7ee6229dc7976\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\denou\\AndroidStudioProjects\\ChatRoulette\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\denou\\.android\\build-cache\\ee97857b8734345826fdb46401a7ee6229dc7976\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\denou\\AndroidStudioProjects\\ChatRoulette\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\denou\\.android\\build-cache\\ee97857b8734345826fdb46401a7ee6229dc7976\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\denou\\AndroidStudioProjects\\ChatRoulette\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\denou\\.android\\build-cache\\ee97857b8734345826fdb46401a7ee6229dc7976\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    }
+]

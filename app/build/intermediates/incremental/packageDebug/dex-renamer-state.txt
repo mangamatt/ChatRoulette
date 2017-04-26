@@ -1,0 +1,7 @@
+#Thu Mar 30 16:34:44 CEST 2017
+base.0=C\:\\Users\\denou\\AndroidStudioProjects\\ChatRoulette\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_9a6a7f7fca16382156e417dd58c392bdbba886ab
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\denou\\AndroidStudioProjects\\ChatRoulette\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f939fe0ef70bf321cf7aaef74ae15403cb68c370\\classes.dex
+base.1=C\:\\Users\\denou\\AndroidStudioProjects\\ChatRoulette\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f939fe0ef70bf321cf7aaef74ae15403cb68c370
+file.0=C\:\\Users\\denou\\AndroidStudioProjects\\ChatRoulette\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_9a6a7f7fca16382156e417dd58c392bdbba886ab\\classes.dex

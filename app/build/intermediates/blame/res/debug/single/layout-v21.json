@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\denou\\AndroidStudioProjects\\ChatRoulette\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\denou\\.android\\build-cache\\ee97857b8734345826fdb46401a7ee6229dc7976\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\denou\\AndroidStudioProjects\\ChatRoulette\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\denou\\.android\\build-cache\\ee97857b8734345826fdb46401a7ee6229dc7976\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\denou\\AndroidStudioProjects\\ChatRoulette\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\denou\\.android\\build-cache\\ee97857b8734345826fdb46401a7ee6229dc7976\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\denou\\AndroidStudioProjects\\ChatRoulette\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\denou\\.android\\build-cache\\ee97857b8734345826fdb46401a7ee6229dc7976\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]
